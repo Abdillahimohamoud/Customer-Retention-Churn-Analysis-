@@ -5,8 +5,8 @@
 ---
 
 ## 📊 Dashboard Preview
+![Uploading image.png…]()
 
-![Uploading ChatGPT Image May 14, 2026, 08_41_23 PM.png…]()
 
 
 > Built in Power BI · Data as of Dec 31, 2024
