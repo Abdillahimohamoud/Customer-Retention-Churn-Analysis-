@@ -5,7 +5,8 @@
 ---
 
 ## 📊 Dashboard Preview
-![Uploading image.png…]()
+<img width="1575" height="999" alt="ChatGPT Image May 14, 2026, 08_41_23 PM" src="https://github.com/user-attachments/assets/4225f8f7-c224-4579-b686-3367ab8fec0c" />
+
 
 
 
